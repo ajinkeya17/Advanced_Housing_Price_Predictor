@@ -1,6 +1,6 @@
 # Project Description
 
-A raw dataset with train and test files provided to predict housing prices.
+A raw dataset with train and test files provided to predict housing prices. We will do model building in future phases. Currently the goal is to demonstrate how to do comprehensive EDA, Data Cleaning and Feature Engineering applicable to any use case.
 
 # Goal
 
